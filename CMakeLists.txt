@@ -3,7 +3,7 @@ project(Architecture_Proyecto_1 C)
 
 set(CMAKE_C_STANDARD 11)
 
-add_executable(Architecture_Proyecto_1
+add_executable(OpSystems_Proyecto1
         sh.c
         utils.h
         parser.c
